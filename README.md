@@ -1,4 +1,3 @@
-
 <!-- ===================================================================== -->
 <!--               REAB PHIROM (រាប ភីរុំ) | GITHUB PROFILE                -->
 <!-- ===================================================================== -->
@@ -6,12 +5,18 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-<img src="<img width="1254" height="1254" alt="Professional Young Man Portrait" src="https://github.com/user-attachments/assets/bf0d2e14-0d5c-4848-ab79-f4287e31f679" />
-" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=115&section=header" width="100%" alt="Header Banner" />
+
+<!-- Profile Portrait (Medium Size 160x160 - ជំនួសដោយរូប .png កាត់រង្វង់មូលដើម្បីចេញមូលស្អាតលើ GitHub) -->
+<a href="https://www.phirommanager.com">
+  <img src="https://github.com/user-attachments/assets/bf0d2e14-0d5c-4848-ab79-f4287e31f679" width="160" height="160" alt="Reab Phirom (រាប ភីរុំ)" />
+</a>
+
+<br/><br/>
 
 <!-- Dynamic Typing Intro -->
 <a href="https://www.phirommanager.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&height=55&lines=HI%2C+I'M+REAB+PHIROM+(%E1%9E%9A%E1%9E%B6%E1%9E%94+%E1%9E%97%E1%9E%B8%E1%9E%9A%E1%9E%BB%E1%9F%86)+%F0%9F%91%8B;FULL-STACK+DEVELOPER+%26+AI+ENGINEER;SYSTEM+ARCHITECT+%26+TECH+FOUNDER;31%2B+REAL+PROJECTS+%E2%80%A2+48+CORE+TECHNOLOGIES" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&height=50&lines=HI%2C+I'M+REAB+PHIROM+(%E1%9E%9A%E1%9E%B6%E1%9E%94+%E1%9E%97%E1%9E%B8%E1%9E%9A%E1%9E%BB%E1%9F%86)+%F0%9F%91%8B;FULL-STACK+DEVELOPER+%26+AI+ENGINEER;SYSTEM+ARCHITECT+%26+TECH+FOUNDER;31%2B+REAL+PROJECTS+%E2%80%A2+48+CORE+TECHNOLOGIES" alt="Typing introduction" />
 </a>
 
 <p>
@@ -251,6 +256,9 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 </a>
 <a href="https://www.phirommanager.com/developer-portfolio/index.html">
   <img src="https://img.shields.io/badge/Portfolio-Developer_CV-00D2FF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
+</a>
+<a href="https://www.linkedin.com/in/reabphiromofficial">
+  <img src="https://img.shields.io/badge/LinkedIn-reabphiromofficial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/reabphiromofficial">
   <img src="https://img.shields.io/badge/Telegram-@reabphiromofficial-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
