@@ -1,8 +1,4 @@
-នេះគឺជា **GitHub Profile `README.md` ថ្មី** ដែលបានរៀបចំ UI ឡើងវិញឱ្យស្អាតកម្រិត Executive (ស៊ីជាមួយពណ៌ផ្លូវការរបស់ **PHIROM MANAGER**: `#00D2FF`, `#005ACC`, `#FF8B00`) និងប្រើ **ទិន្នន័យពិត ១០០%** ពី Portfolio & Ecosystem របស់អ្នក (លុបបច្ចេកវិទ្យាដែលមិនបានប្រើចេញ ហើយជំនួសដោយ 48 Tech, 31+ គម្រោង, 19 មុខវិជ្ជា, 11 វិញ្ញាបនបត្រ និង 4 Portals ពិតប្រាកដ)។
 
-អ្នកអាច Copy កូដខាងក្រោមនេះដាក់ក្នុង Repository `reabphirom002/README.md` លើ GitHub បានភ្លាម៖
-
-```markdown
 <!-- ===================================================================== -->
 <!--               REAB PHIROM (រាប ភីរុំ) | GITHUB PROFILE                -->
 <!-- ===================================================================== -->
@@ -273,6 +269,3 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=115&section=footer" width="100%" />
 
 </div>
-```
-
-*(ចំណាំ៖ លីង `https://www.phirommanager.com/phirom-manager/index.html` នៅក្នុងតារាង Portals គឺដើរតាម Folder Name បច្ចុប្បន្នក្នុង `main-assets/main-data.js` របស់អ្នក — ប្រសិនបើអ្នក Deploy Folder ឈ្មោះ `1-phirom-manager` ឬ `phirom-manager` សូមផ្ទៀងផ្ទាត់ឈ្មោះ Folder ឱ្យត្រូវគ្នាផងណា!)*
