@@ -228,9 +228,9 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics-->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- Live GitHub Profile Metrics Badges -->
 <!-- <p>
