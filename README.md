@@ -7,7 +7,7 @@
 <!-- Header Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=115&section=header" width="100%" alt="Header Banner" />
 
-<!-- Profile Portrait (Medium Size 160x160 - ជំនួសដោយរូប .png កាត់រង្វង់មូលដើម្បីចេញមូលស្អាតលើ GitHub) -->
+<!-- Real Profile Portrait (Medium Size 160x160) -->
 <a href="https://www.phirommanager.com">
   <img src="https://github.com/user-attachments/assets/bf0d2e14-0d5c-4848-ab79-f4287e31f679" width="160" height="160" alt="Reab Phirom (រាប ភីរុំ)" />
 </a>
@@ -232,16 +232,24 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=reabphirom002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=FF8B00&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reabphirom002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" />
+<!-- Live GitHub Profile Metrics Badges -->
+<p>
+  <img src="https://img.shields.io/github/followers/reabphirom002?label=Followers&style=for-the-badge&color=00D2FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/reabphirom002?label=Total%20Stars&style=for-the-badge&color=FF8B00&logo=github" />
+  <a href="https://github.com/reabphirom002?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_All-005ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br/><br/>
+<!-- GitHub Streak Stats -->
+<p>
+  <img width="92%" src="https://streak-stats.demolab.com?user=reabphirom002&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF8B00&currStreakLabel=00D2FF" alt="GitHub Streak" />
+</p>
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=reabphirom002&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF8B00&currStreakLabel=00D2FF" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=reabphirom002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+<!-- Real GitHub Contribution Heatmap -->
+<p>
+  <img width="92%" src="https://ghchart.rshah.org/00D2FF/reabphirom002" alt="GitHub Contribution Chart" />
+</p>
 
 </div>
 
@@ -275,6 +283,6 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=115&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=115&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
