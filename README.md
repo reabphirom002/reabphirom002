@@ -1,4 +1,4 @@
-
+<img width="1254" height="1254" alt="Professional Young Man Portrait" src="https://github.com/user-attachments/assets/3ba95224-2485-45d5-9887-cecec93f87e0" />
 <!-- ===================================================================== -->
 <!--               REAB PHIROM (រាប ភីរុំ) | GITHUB PROFILE                -->
 <!-- ===================================================================== -->
@@ -6,7 +6,8 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005ACC,50:00D2FF,100:FF8B00&height=170&section=header&text=REAB%20PHIROM&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%20Engineer%20%E2%80%A2%20PHIROM%20MANAGER%20Ecosystem&descAlignY=60&descSize=16" width="100%" />
+<img src="<img width="1254" height="1254" alt="Professional Young Man Portrait" src="https://github.com/user-attachments/assets/bf0d2e14-0d5c-4848-ab79-f4287e31f679" />
+" />
 
 <!-- Dynamic Typing Intro -->
 <a href="https://www.phirommanager.com">
