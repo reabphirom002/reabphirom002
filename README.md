@@ -233,25 +233,25 @@ Production-style CRUD & enterprise portals built with **PHP 8 OOP, Laravel MVC &
 <div align="center">
 
 <!-- Live GitHub Profile Metrics Badges -->
-<p>
+<!-- <p>
   <img src="https://img.shields.io/github/followers/reabphirom002?label=Followers&style=for-the-badge&color=00D2FF&logo=github" />
   <img src="https://img.shields.io/github/stars/reabphirom002?label=Total%20Stars&style=for-the-badge&color=FF8B00&logo=github" />
   <a href="https://github.com/reabphirom002?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View_All-005ACC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <!-- GitHub Streak Stats -->
-<p>
+<!-- <p>
   <img width="92%" src="https://streak-stats.demolab.com?user=reabphirom002&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=FF8B00&currStreakLabel=00D2FF" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <!-- Real GitHub Contribution Heatmap -->
-<p>
+<!-- <p>
   <img width="92%" src="https://ghchart.rshah.org/00D2FF/reabphirom002" alt="GitHub Contribution Chart" />
 </p>
 
-</div>
+</div> -->
 
 ---
 
