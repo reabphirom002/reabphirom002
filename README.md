@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="Professional Young Man Portrait" src="https://github.com/user-attachments/assets/3ba95224-2485-45d5-9887-cecec93f87e0" />
+
 <!-- ===================================================================== -->
 <!--               REAB PHIROM (រាប ភីរុំ) | GITHUB PROFILE                -->
 <!-- ===================================================================== -->
