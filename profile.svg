@@ -72,12 +72,12 @@
   <text x="415" y="338"><tspan class="dot">— </tspan><tspan class="hdr">GitHub Stats</tspan><tspan class="dot"> ———————————————————————————————————————</tspan></text>
   <text x="415" y="361"><tspan class="key">. Repos:</tspan><tspan class="dot"> ............. </tspan><tspan class="num">5</tspan><tspan class="dot"> | </tspan><tspan class="key">. Stars:</tspan><tspan class="dot"> .............. </tspan><tspan class="num">1</tspan></text>
   <text x="415" y="383"><tspan class="key">. Forks:</tspan><tspan class="dot"> ............. </tspan><tspan class="num">0</tspan><tspan class="dot"> | </tspan><tspan class="key">. Followers:</tspan><tspan class="dot"> .......... </tspan><tspan class="num">0</tspan></text>
-  <text x="415" y="405"><tspan class="key">. Commits:</tspan><tspan class="dot"> ......... </tspan><tspan class="num">457</tspan><tspan class="dot"> | </tspan><tspan class="key">. Contributed:</tspan><tspan class="dot"> ........ </tspan><tspan class="num">5</tspan></text>
+  <text x="415" y="405"><tspan class="key">. Commits:</tspan><tspan class="dot"> ......... </tspan><tspan class="num">458</tspan><tspan class="dot"> | </tspan><tspan class="key">. Contributed:</tspan><tspan class="dot"> ........ </tspan><tspan class="num">5</tspan></text>
   <text x="415" y="427"><tspan class="key">. PRs:</tspan><tspan class="dot"> ............... </tspan><tspan class="num">0</tspan><tspan class="dot"> | </tspan><tspan class="key">. Issues:</tspan><tspan class="dot"> ............. </tspan><tspan class="num">0</tspan></text>
   <text x="415" y="449"><tspan class="key">. Top repo:</tspan><tspan class="dot"> ................. </tspan><tspan class="val">phirom-ecosystem (1 ★)</tspan></text>
 
   <text x="415" y="476"><tspan class="dot">— </tspan><tspan class="hdr">Last 12 Months</tspan><tspan class="dot"> —————————————————————————————————————</tspan></text>
-  <text x="415" y="497"><tspan class="key">. Contributions:</tspan><tspan class="dot"> ... </tspan><tspan class="num">457</tspan><tspan class="dot"> | </tspan><tspan class="key">. Reviews:</tspan><tspan class="dot"> ............ </tspan><tspan class="num">0</tspan></text>
+  <text x="415" y="497"><tspan class="key">. Contributions:</tspan><tspan class="dot"> ... </tspan><tspan class="num">458</tspan><tspan class="dot"> | </tspan><tspan class="key">. Reviews:</tspan><tspan class="dot"> ............ </tspan><tspan class="num">0</tspan></text>
   <text x="415" y="518"><tspan class="key">. Private:</tspan><tspan class="dot"> ..................................... </tspan><tspan class="num">449</tspan></text>
   <rect x="714" y="532" width="9" height="4" rx="1.5" fill="#2ea043"/><rect x="879" y="532" width="9" height="4" rx="1.5" fill="#2ea043"/><rect x="901" y="532" width="9" height="4" rx="1.5" fill="#2ea043"/><rect x="912" y="518" width="9" height="18" rx="1.5" fill="#2ea043"/><rect x="923" y="532" width="9" height="4" rx="1.5" fill="#2ea043"/>
 </svg>
