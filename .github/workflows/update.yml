@@ -1,0 +1,33 @@
+name: 24h Auto Update Public & Private Stats
+
+on:
+  schedule:
+    # Run every 6 hours automatically
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile SVG
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 generate_svg.py
+
+      - name: Commit and push updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile.svg
+          git diff --staged --quiet || git commit -m "chore(metrics): auto-sync live github statistics [skip ci]"
+          git push
